@@ -7,4 +7,4 @@ How to run:
 java -jar demo-0.0.1-SNAPSHOT.jar /configs/dev/east/node1
 
 leaf path will traversed from deepest property file (/configs/dev/east/node1/config.properties)
-to last config directory (/configs/config.properties), excluding the current directory, e.g.  
+to last config directory (/configs/config.properties), excluding the current directory
